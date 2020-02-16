@@ -1,2 +1,2 @@
-# C-Cycle1
+# C
 Basic C programs from my CS lab syllabus.
