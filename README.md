@@ -1,2 +1,2 @@
-# C
-Basic C programs from my CS lab syllabus.
+#C Programs
+Simple C programs I had done.
