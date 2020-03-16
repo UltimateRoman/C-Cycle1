@@ -1,1 +1,1 @@
-Simple C programs I had done.
+C programs of various difficulty levels I had done.
